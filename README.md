@@ -4,7 +4,7 @@ Kanoon Mitra is an advanced legal chatbot that leverages Natural Language Proces
 # Features
 *Legal Information:* Offers comprehensive legal information from Indian laws including the Indian Penal Code (IPC), Civil Procedural Code (CPC), Code of Criminal Procedure (CrPC), and personal laws.
 
-*Natural Language Processing (NLP):* Understands and processes complex legal queries in multiple languages.
+*Multilingual Support:* Understands and processes complex legal queries in multiple languages.
 
 *Round-the-Clock Service:* Provides users with legal information anytime.
 
