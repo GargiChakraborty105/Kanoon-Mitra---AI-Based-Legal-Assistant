@@ -1,0 +1,51 @@
+{"intents": [
+    {"tag": "greeting",
+     "patterns": ["Hi", "How are you", "Is anyone there?", "Hello", "Good day", "Whats up","How is going?","Hola"],
+     "responses": ["Hello!", "Good to see you again!", "Hi there, how can I help?","Hey! do you need any help?", "hello! I'm always at your service!"],
+     "context_set": ""
+    },
+    {"tag": "goodbye",
+     "patterns": ["see ya!", "See you later", "Goodbye", "I am Leaving", "Have a Good day","Bye!"],
+     "responses": ["Sad to see you go :(", "Talk to you later", "Goodbye!","Have a good day!","Bye! hope I've resolved your issue!"],
+     "context_set": ""
+    },
+    
+    {"tag": "name",
+     "patterns": ["what is your name", "what should I call you", "whats your name?","Who,s this?","May I know your name?"],
+     "responses": ["You can call me Bot.", "I'm a Bot!", "I'm your slave"],
+     "context_set": ""
+    },
+    {"tag": "problems",
+     "patterns": ["Can a person be arrested without a warrant?", "Can I be arrested without a warrant", "Can anyone be arrested without a warrant","How can police arrest someone without a warrant","Is there any law to arrest someone without a warrant?","arrest warrant"],
+     "responses": ["The crimes of Outraging Modesty of Woman under section 354, Assault or use of criminal force to woman with intent to disrobe under section 354A and Sexual harassment under section 354B is kept as Cognizable, which authorises a police officer to arrest the accused without warrant.","If anyone harrass a woman, he can be arrested without warrent under section 354, otherwise, in case of any sexual violence, a person can be arrested without warrant under section 354A alongwith 354B", "yes! it can be possible under section 354 - hampering modesty of a woman, section 354A and 354B - Sexual violence"],
+     "context_set": ""
+    },
+    {"tag": "first_problem",
+     "patterns": ["Can I be caught without any evidence", "Can anyone be caught without any evidence"],
+     "responses": ["Cant be arrested. In arnesh kumar vs state of bihar SC made it clear that nobody will be arrested if punishment for that offence is less than 7 years. Notice under sec 41 a of CRPC will be issued and suspect will be asked to join investigation and if he co-operates, he won't and can't be arrested. If you are arrested, ask for arrest memo and file contempt petition against the police officer in HC. He is sure to get it left and right from the courts."],
+     "context_set": ""
+    },
+    {"tag": "second_problem",
+     "patterns": ["Whom to approach in case of facing any corruption to get government jobs?", "facing corruption to get government jobs", "to whom we should go after facing corruption of getting government jobs?"],
+     "responses": ["You can complain anything to the Vigilance Department or the Anti-Corruption Bureau (ACB). However one has to be very certain that he or she has proper supporting documentation. Names and details should be specific.", "You can complain anything to the Vigilance Department or the Anti-Corruption Bureau (ACB) with proper documentations and your details"],
+     "context_set": ""
+    },
+    {"tag": "third_problem",
+     "patterns": ["What steps should a man take if he is falsely accused of domestic violence by his wife?","steps for a man if he is facing false accusion of domestic violence by his wife", "false accusion of domestic violence by wife","I am falsely accused of domestic violence by my wife. What should I do?"],
+     "responses": ["Get a good female attorney.Do not speak to the police.Do not accept any plea bargains.Forget about how much you love your wife. She is now your enemy.Pull half of your savings and checking. If she has taken the money, file a theft report. Half that money is yours. Do not take more than half.Get every witness that you can and make sure they testify.After being found not guilty, sue your wife for divorce and a separate law suit for defamation. If she has a boyfriend, sue for alienation of affection. Every state has that statue. It isn’t used much, but you use it.Make sure you rake her “good” name in the dirt."],
+     "context_set": ""
+    },{"tag": "fourth_problem",
+    "patterns": ["What legal proof is required to prove a case of domestic violence","laws for verbal and emotional abuse"],
+    "responses": ["The proof in the cases of domestic violence can be witnesses, sound recordings, medical reports, previous complaints filed with the police, testaments from the relatives. Proofs and its degree to be presented in front of the court varies from case to case. Advice of a lawyer is must. Dont go by the answers on this forum."],
+    "context_set": ""
+   },
+   {"tag": "fifth_problem",
+    "patterns": ["What should I do if my wife files a false dowry and domestic violence case against me and my family?","my wife filed a false dowry and domestic violence case against me and my family"],
+    "responses": ["As you are the accused in Dowry Harassment case, there is no other way but to contest it. It is a state case, and the complainant i.e. your wife is merely a witness. You can also check, whether there is any possibility of discharge or quash as they both happen on legal grounds.", "In Domestic Violence case, you are a respondent. The case won’t finish off unless either the court decides it or you enter into a settlement with your wife.", "All in all, you would need to fight any cases filed against you. You can also avail Alternate Dispute Resolutions like mediation/ Lok Adalat etc. The courts are very liberal to refer matters to mediation if parties so desire."],
+    "context_set": ""
+   }
+
+    
+
+]
+}
